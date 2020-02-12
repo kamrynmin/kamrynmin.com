@@ -536,6 +536,7 @@ textarea {
 	margin: 0 0 35px 0;
 	padding: 20px 0;
 	height: 120px;
+	background: whitesmoke;
 }
 
 button {
@@ -750,6 +751,15 @@ td {
 	font-style: italic !important;
 }
 
+.custom-icon {
+	height: 50px;
+	width: 50px;
+}
+
+.imageSequence{
+	background: lightgrey;
+}
+
 /* 14. Blockquote */
 blockquote {
 	font-family: 'Hind', helvetica;
@@ -771,4 +781,3 @@ blockquote {
 	}
 
 }
-
